@@ -1,4 +1,4 @@
-# API Rekomendasi Olahraga 🏸⛳
+# API Rekomendasi Olahraga 
 
 API ini merekomendasikan olahraga yang paling cocok berdasarkan kondisi pengguna.  
 Pilihan olahraga: **Badminton**, **Tenis Lapangan**, **Padel**, atau **Golf**.
